@@ -1,0 +1,7 @@
+# file extensions to ignore:
+*.exe
+*.json
+
+#folders to ignore:
+node_modules/           
+
